@@ -1,0 +1,72 @@
+13:16:44.272 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Launched chrome Browser
+13:16:44.314 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+13:16:44.908 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+13:16:48.233 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Enter any Product
+13:16:51.767 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+13:16:51.849 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to cart
+13:16:56.962 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to viewcart
+13:17:00.458 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to view
+13:17:10.535 [TestNG-tests-1] ERROR testCases.TC_005_Addcart - Add cart  Page Failed 
+13:32:18.206 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Launched chrome Browser
+13:32:18.279 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+13:32:18.906 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+13:32:22.317 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Enter any Product
+13:32:25.895 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+13:32:25.975 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to cart
+13:32:31.115 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to viewcart
+13:32:34.655 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to view
+13:32:34.660 [TestNG-tests-1] ERROR testCases.TC_005_Addcart - Add cart  Page Failed 
+13:34:37.262 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Launched chrome Browser
+13:34:37.329 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+13:34:37.940 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+13:34:41.284 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Enter any Product
+13:34:44.816 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+13:34:44.907 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to cart
+13:34:50.028 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to viewcart
+13:34:53.571 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to view
+13:34:53.571 [TestNG-tests-1] ERROR testCases.TC_005_Addcart - Add cart  Page Failed 
+13:36:40.459 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Launched chrome Browser
+13:36:40.522 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+13:36:41.149 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+13:36:44.513 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Enter any Product
+13:36:48.060 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+13:36:48.144 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to cart
+13:36:53.250 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to viewcart
+13:36:53.328 [TestNG-tests-1] ERROR testCases.TC_005_Addcart - Add cart  Page Failed 
+13:37:30.954 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Launched chrome Browser
+13:37:30.992 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+13:37:31.639 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+13:37:35.022 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Enter any Product
+13:37:38.568 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+13:37:38.647 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to cart
+13:37:43.652 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to viewcart
+13:37:43.728 [TestNG-tests-1] ERROR testCases.TC_005_Addcart - Add cart  Page Failed 
+13:39:21.035 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Launched chrome Browser
+13:39:21.108 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+13:39:21.758 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+13:39:25.145 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Enter any Product
+13:39:28.686 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+13:39:28.767 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to cart
+13:39:33.780 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to viewcart
+13:39:33.841 [TestNG-tests-1] ERROR testCases.TC_005_Addcart - Add cart  Page Failed 
+13:45:15.163 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Launched chrome Browser
+13:45:15.220 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Starting TC_005_Addcart
+13:45:15.872 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Home Page Displayed 
+13:45:19.324 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Enter any Product
+13:45:22.888 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product displayed on HomePage
+13:45:22.967 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to cart
+13:45:28.028 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - product added to viewcart
+13:45:28.105 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Search page is Success 
+13:45:28.105 [TestNG-tests-1] INFO  testCases.TC_005_Addcart - Finished TC_005_Addcart
+13:47:02.222 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Launched chrome Browser
+13:47:02.284 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter -  Starting TC_022_NewsLetter
+13:47:02.898 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Home Page Displayed 
+13:47:03.263 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Clicked on My Account 
+13:47:03.674 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Clicked on Login 
+13:47:03.862 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Provided Email 
+13:47:03.975 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Provided Password 
+13:47:04.372 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Clicked on Login
+13:47:10.777 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Clicked on NewsLetter
+13:47:13.896 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Clicked on NewsLetter radio button
+13:47:17.374 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Clicked on Contionue Button
+13:47:17.375 [TestNG-tests-1] INFO  testCases.TC_022_Newsletter - Finished TC_022_News Letter

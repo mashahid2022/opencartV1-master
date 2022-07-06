@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-29T13:46:58 IST" name="OpenCart TestSuite" finished-at="2022-06-29T13:47:17 IST" duration-ms="19317">
+    <groups>
+    </groups>
+    <test started-at="2022-06-29T13:46:58 IST" name="OpenCart Tests" finished-at="2022-06-29T13:47:17 IST" duration-ms="19317">
+      <class name="testCases.TC_022_Newsletter">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_022_Newsletter@576d5deb]" started-at="2022-06-29T13:46:58 IST" name="setup" finished-at="2022-06-29T13:47:02 IST" duration-ms="3522" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Newletter()[pri:0, instance:testCases.TC_022_Newsletter@576d5deb]" started-at="2022-06-29T13:47:02 IST" name="test_Newletter" finished-at="2022-06-29T13:47:17 IST" duration-ms="15105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Newletter -->
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:testCases.TC_022_Newsletter@576d5deb]" started-at="2022-06-29T13:47:17 IST" name="teadDown" finished-at="2022-06-29T13:47:17 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+      </class> <!-- testCases.TC_022_Newsletter -->
+    </test> <!-- OpenCart Tests -->
+  </suite> <!-- OpenCart TestSuite -->
+</testng-results>
